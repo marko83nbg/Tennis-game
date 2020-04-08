@@ -13,7 +13,7 @@ const paddleThickness = 10;
 
 let player1Score = 0;
 let player2Score = 0;
-const winningScore = 3;
+const winningScore = 5;
 let showWinScreen = false;
 
 window.onload = function() {
